@@ -1,0 +1,2 @@
+for b in range(6,70,2):
+    print("number is even : ",+b)

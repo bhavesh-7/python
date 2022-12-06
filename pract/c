@@ -1,0 +1,5 @@
+mul=4
+x=0
+for c in range (11):
+    x=mul*c
+    print(x)
