@@ -1,0 +1,36 @@
+1. WAP to perform mathematical operation in python.
+2. WAP to find out greatest among three numbers.
+3. WAP to print a number is even or odd.
+4. Write a program to print sum of first 10 natural numbers.
+5. Write a program to print even numbers in the range of 5 to 70.
+6. Write a program to print the multiplication table.
+7. Write a program to accept number and find whether it is palindrome
+or not.
+8. Write a program to print Armstrong number in the range of 100 to
+500.
+9. Write a program to accept a number and print Fibonacci series.
+10. Write a program to print number in reverse order.
+11. Write a program to print prime numbers in the range of 1 to 100.
+12. Write a program to find a factorial of a number.
+13. Write a program to print sum of harmonic series.
+14. Accept the Name of Student ,Marks in 3 Subjects And Calculate their Grades
+15.WAP to print Even No. from the range of 10 to 30.
+16.WAP to create a Function to Calculate the area of Triangle Rectangle and Circle
+17.Write the program to remove the duplicate element of the list.
+18. Write a program to find the sum of the element in the list.
+19. Write the program to find the lists consist of at least one common element.
+20. Write a program to create, concatenate and print a string and accessing sub-
+string from a given string.
+21. Write a program to create, append, and remove lists in python.
+22. Write a program to demonstrate working with tuples in python.
+23.Write a Python program to convert temperatures to and from Celsius,
+Fahrenheit. [Formula: c/5 = f-32/9]
+24. Write a Python program to construct the stars(*) pattern, using a nested for
+loop.
+25. Write a Python script that prints prime numbers less than 20.
+26. Write a python program to find factorial of a number using Recursion.
+27. Write a program that accepts the lengths of three sides of a triangle as inputs.
+The program output should indicate whether or not the triangle is a right
+triangle (Recall from the Pythagorean Theorem that in a right triangle, the
+square of one side equals the sum of the squares of the other two sides).
+28. To write a Python program to find the maximum of a list of numbers.
