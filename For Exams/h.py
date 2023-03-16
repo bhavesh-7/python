@@ -5,5 +5,5 @@ for num in range(100,500 + 1):
        digit = temp % 10
        sum += digit ** 3
        temp //= 10
-       if num == sum:
-           print(num)  
+   if num == sum:
+       print(num)
