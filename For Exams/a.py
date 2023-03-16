@@ -1,6 +1,2 @@
-x=25
-y=5
-print(x+y)
-print(x-y)
-print(x*y)
-print(x/y)
+x,y=27,3
+print("",x,"",y,"\n",x+y,"\n",x-y,"\n",x*y,"\n",x/y)
